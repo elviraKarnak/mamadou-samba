@@ -1,0 +1,251 @@
+{
+    "RPT": {
+        "ScanTime": "0.324 sec.",
+        "ScanFile": "Default_4086f294e58803bb6958_20240822134232_scan.json",
+        "ScanCreated": "2024-08-22 13:42:33",
+        "ScanPath": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/backups-dup-pro\/tmp\/Default_4086f294e58803bb6958_20240822134232_scan.json"
+    },
+    "ARC": {
+        "Size": "131.75MB",
+        "DirCount": "1,098",
+        "FileCount": "7,164",
+        "FullCount": "8,262",
+        "USize": 138154304,
+        "UDirCount": 1098,
+        "UFileCount": 7164,
+        "UFullCount": 8262,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/.opcache",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/.tmb",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/ai1wm-backups",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/backups-dup-lite",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/backups-dup-pro",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/backupwordpress",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/bps-backup",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/cache",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/content\/cache",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/contents\/cache",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/infinitewp\/backups",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/managewp\/backups",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/old-cache",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/plugins\/wordfence\/tmp",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/updraft",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads\/aiowps_backups",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads\/backup-guard",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads\/backupbuddy_backups",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads\/backupbuddy_temp",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads\/mainwp\/backup",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads\/pb_backupbuddy",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads\/snapshots",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads\/sucuri",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads\/wp-clone",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads\/wp_all_backup",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads\/wpbackitup_backups",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/wfcache",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/wishlist-backup",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/wpvividbackups",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/.htaccess",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/.user.ini",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/php.ini",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/web.config",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-config.php",
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/debug.log",
+            "dbcache",
+            "debug_log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "FilteredCoreDirs": [],
+        "FilteredSites": [],
+        "Status": {
+            "Size": "Good",
+            "Big": "Good",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good",
+            "showCreateFuncStatus": "Good",
+            "showCreateFunc": true,
+            "HasImportableSites": true,
+            "HasNotImportableSites": false,
+            "HasFilteredCoreFolders": false,
+            "HasFilteredSiteTables": false,
+            "HasFilteredSites": false,
+            "Network": "Good",
+            "IsDBOnly": false,
+            "PackageIsNotImportable": false
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Subsites": [
+            {
+                "id": 1,
+                "domain": "mamadou-samba.elvirainfotech.live",
+                "path": "\/",
+                "blogname": "PIMD",
+                "blog_prefix": "wpy1_",
+                "filteredTables": [],
+                "adminUsers": [
+                    {
+                        "ID": "1",
+                        "user_login": "admin@mamadou-samba",
+                        "id": "1"
+                    }
+                ],
+                "fullHomeUrl": "https:\/\/mamadou-samba.elvirainfotech.live",
+                "fullSiteUrl": "https:\/\/mamadou-samba.elvirainfotech.live",
+                "uploadPath": "wp-content\/uploads",
+                "fullUploadPath": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads",
+                "fullUploadSafePath": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads",
+                "fullUploadUrl": "http:\/\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads",
+                "filteredPaths": []
+            }
+        ]
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "HOST": [],
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": true,
+            "curlavailable": true,
+            "arch64bit": true,
+            "minMemory": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ismuplus": true,
+            "ALL": "Good"
+        }
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good",
+            "Excluded": "Good",
+            "Triggers": "Good",
+            "mysqlDumpMemoryCheck": true,
+            "requiredMysqlDumpLimit": "52.63MB"
+        },
+        "SizeInBytes": 2752512,
+        "Size": "2.63MB",
+        "Rows": "3,055",
+        "TableCount": 14,
+        "TableList": {
+            "wpy1_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wpy1_comments": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": "98304"
+            },
+            "wpy1_duplicator_backups": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "144KB",
+                "USize": "147456"
+            },
+            "wpy1_duplicator_entities": {
+                "Case": 0,
+                "Rows": "9",
+                "Size": "160KB",
+                "USize": "163840"
+            },
+            "wpy1_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wpy1_options": {
+                "Case": 0,
+                "Rows": "272",
+                "Size": "1.09MB",
+                "USize": "1146880"
+            },
+            "wpy1_postmeta": {
+                "Case": 0,
+                "Rows": "2,458",
+                "Size": "560KB",
+                "USize": "573440"
+            },
+            "wpy1_posts": {
+                "Case": 0,
+                "Rows": "252",
+                "Size": "240KB",
+                "USize": "245760"
+            },
+            "wpy1_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wpy1_terms": {
+                "Case": 0,
+                "Rows": "7",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wpy1_term_relationships": {
+                "Case": 0,
+                "Rows": "18",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wpy1_term_taxonomy": {
+                "Case": 0,
+                "Rows": "7",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wpy1_usermeta": {
+                "Case": 0,
+                "Rows": "32",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wpy1_users": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": "65536"
+            }
+        },
+        "FilteredTables": [],
+        "DBExcluded": false
+    },
+    "Status": 1
+}

@@ -1,0 +1,638 @@
+{
+    "CL_-=_-=": "Duplicator\\Installer\\Package\\ArchiveDescriptor",
+    "dup_type": "pro",
+    "created": "2024-08-22 13:42:37",
+    "version_dup": "4.5.16",
+    "version_wp": "6.6.1",
+    "version_db": "10.6.19",
+    "version_php": "8.0.30",
+    "version_os": "Linux",
+    "blogname": "PIMD",
+    "exportOnlyDB": false,
+    "secure_on": 0,
+    "secure_pass": "",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wpy1_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorSubsite",
+            "id": 1,
+            "domain": "mamadou-samba.elvirainfotech.live",
+            "path": "\/",
+            "blogname": "PIMD",
+            "blog_prefix": "wpy1_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "CL_-=_-=": "stdClass",
+                    "ID": "1",
+                    "user_login": "admin@mamadou-samba",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/mamadou-samba.elvirainfotech.live",
+            "fullSiteUrl": "https:\/\/mamadou-samba.elvirainfotech.live",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads",
+            "fullUploadUrl": "http:\/\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 1000,
+    "license_type": 11,
+    "dbInfo": {
+        "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBInfo",
+        "buildMode": "PHPCHUNKING",
+        "charSetList": [
+            "utf8mb3",
+            "utf8mb4"
+        ],
+        "collationList": [
+            "utf8mb3_general_ci",
+            "utf8mb4_unicode_520_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": false,
+        "lowerCaseTableNames": 0,
+        "isNameUpperCase": false,
+        "name": "hguusaov_wp621",
+        "tablesBaseCount": 14,
+        "tablesFinalCount": 14,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 3055,
+        "tablesSizeOnDisk": 2752512,
+        "tablesList": {
+            "wpy1_commentmeta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpy1_comments": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 1,
+                "size": 98304
+            },
+            "wpy1_duplicator_backups": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 1,
+                "size": 147456
+            },
+            "wpy1_duplicator_entities": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "9",
+                "insertedRows": 9,
+                "size": 163840
+            },
+            "wpy1_links": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpy1_options": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "272",
+                "insertedRows": 272,
+                "size": 1146880
+            },
+            "wpy1_postmeta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "2458",
+                "insertedRows": 2458,
+                "size": 573440
+            },
+            "wpy1_posts": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "252",
+                "insertedRows": 252,
+                "size": 245760
+            },
+            "wpy1_termmeta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpy1_terms": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "7",
+                "insertedRows": 7,
+                "size": 49152
+            },
+            "wpy1_term_relationships": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "18",
+                "insertedRows": 20,
+                "size": 32768
+            },
+            "wpy1_term_taxonomy": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "7",
+                "insertedRows": 7,
+                "size": 49152
+            },
+            "wpy1_usermeta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "32",
+                "insertedRows": 32,
+                "size": 49152
+            },
+            "wpy1_users": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 1,
+                "size": 65536
+            }
+        },
+        "dbEngine": "MariaDB",
+        "version": "10.6.19",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPackageInfo",
+        "packageId": 1,
+        "packageName": "Default",
+        "packageHash": "4086f29-22134232",
+        "secondaryHash": "a4e051b-22134232"
+    },
+    "fileInfo": {
+        "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorFileInfo",
+        "dirCount": 1098,
+        "fileCount": 7164,
+        "size": 59454060
+    },
+    "wpInfo": {
+        "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorWpInfo",
+        "version": "6.6.1",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live",
+        "targetPaths": [
+            "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live"
+        ],
+        "adminUsers": [
+            {
+                "CL_-=_-=": "stdClass",
+                "ID": "1",
+                "user_login": "admin@mamadou-samba",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "CL_-=_-=": "stdClass",
+            "defines": {
+                "CL_-=_-=": "stdClass",
+                "ABSPATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "ioldofbo6uiumtrghtuh9zitddnkblph0s4xzwcgsitppjso6zz0pnynvg9gynjp",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "isjjq10otezbgwat5cyv8bxz9pgmdtq6rcoxpy6573kbpyasu5ccspy1ndafvj7x",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "razegheepykm48akqiyxtlwkchefcdvdba4zcmczmabcrde6pxeebk7y7zigywsp",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "ccsmtzerdielorh2pagi81gykbnor7i8jpw9ftdoggz8vsah56ioggfpolgsmdca",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "urgblrcnx313wafg6mwgom4kcbeakoksq9ogk3fxzq7rl4cwzl78dywbe6oq9aev",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "ydwkl5viq4khhi5zoyoaggllej63rya8wgyvdxkzifcfoshsvnap40xq1x0qismz",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "kokvloelgautbsobxbpff5n1x58jpuefzameybeubgxlte68tuokcm0nqzca0csg",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "zzmsedkizbeajkzwszuuueexkkrepexoycvlw15yaggkj1duxiwmffrildvm78on",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "http:\/\/mamadou-samba.elvirainfotech.live\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "http:\/\/mamadou-samba.elvirainfotech.live\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "CL_-=_-=": "stdClass",
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "CL_-=_-=": "stdClass",
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "",
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "CL_-=_-=": "stdClass",
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "CL_-=_-=": "stdClass",
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "CL_-=_-=": "stdClass",
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "CL_-=_-=": "stdClass",
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "CL_-=_-=": "stdClass",
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "2G",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "CL_-=_-=": "stdClass",
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/themes\/pimd",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/themes\/pimd",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "CL_-=_-=": "stdClass",
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "CL_-=_-=": "stdClass",
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "http:\/\/mamadou-samba.elvirainfotech.live\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "CL_-=_-=": "stdClass",
+                "siteUrl": "https:\/\/mamadou-samba.elvirainfotech.live",
+                "homeUrl": "https:\/\/mamadou-samba.elvirainfotech.live",
+                "loginUrl": "https:\/\/mamadou-samba.elvirainfotech.live\/wp-login.php",
+                "contentUrl": "https:\/\/mamadou-samba.elvirainfotech.live\/wp-content",
+                "uploadBaseUrl": "http:\/\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/mamadou-samba.elvirainfotech.live\/wp-content\/plugins",
+                "mupluginsUrl": "http:\/\/mamadou-samba.elvirainfotech.live\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/mamadou-samba.elvirainfotech.live\/wp-content\/themes",
+                "originalPaths": {
+                    "CL_-=_-=": "stdClass",
+                    "home": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live",
+                    "abs": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live",
+                    "wpconfig": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live",
+                    "wpcontent": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content",
+                    "uploads": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads",
+                    "plugins": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/plugins",
+                    "muplugins": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/mu-plugins",
+                    "themes": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "CL_-=_-=": "stdClass",
+                    "home": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live",
+                    "abs": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live",
+                    "wpconfig": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live",
+                    "wpcontent": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content",
+                    "uploads": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/uploads",
+                    "plugins": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/plugins",
+                    "muplugins": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/mu-plugins",
+                    "themes": "\/home\/hguusaov\/mamadou-samba.elvirainfotech.live\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "advanced-custom-fields-pro\/acf.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "advanced-custom-fields-pro\/acf.php",
+                "name": "Advanced Custom Fields PRO",
+                "version": "6.2.2",
+                "pluginURI": "https:\/\/www.advancedcustomfields.com",
+                "author": "WP Engine",
+                "authorURI": "https:\/\/wpengine.com\/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=plugin_directory&utm_content=advanced_custom_fields",
+                "description": "Customize WordPress with powerful, professional and intuitive fields.",
+                "title": "Advanced Custom Fields PRO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "wp-database-backup\/wp-database-backup.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "wp-database-backup\/wp-database-backup.php",
+                "name": "Backup For WP",
+                "version": "6.12.1",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/wp-database-backup",
+                "author": "Backup for WP",
+                "authorURI": "https:\/\/backupforwp.com\/",
+                "description": "This plugin helps you to create\/restore Unlimited  WordPress Database & Files backup.",
+                "title": "Backup For WP",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "classic-editor\/classic-editor.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "classic-editor\/classic-editor.php",
+                "name": "Classic Editor",
+                "version": "1.6.4",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/classic-editor\/",
+                "author": "WordPress Contributors",
+                "authorURI": "https:\/\/github.com\/WordPress\/classic-editor\/",
+                "description": "Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen.",
+                "title": "Classic Editor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "contact-form-7\/wp-contact-form-7.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "contact-form-7\/wp-contact-form-7.php",
+                "name": "Contact Form 7",
+                "version": "5.9.8",
+                "pluginURI": "https:\/\/contactform7.com\/",
+                "author": "Takayuki Miyoshi",
+                "authorURI": "https:\/\/ideasilo.wordpress.com\/",
+                "description": "Just another contact form plugin. Simple but flexible.",
+                "title": "Contact Form 7",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "duplicator-pro\/duplicator-pro.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "duplicator-pro\/duplicator-pro.php",
+                "name": "Duplicator Pro",
+                "version": "4.5.16",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Create, schedule and transfer a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "safe-svg\/safe-svg.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "safe-svg\/safe-svg.php",
+                "name": "Safe SVG",
+                "version": "2.2.5",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/safe-svg\/",
+                "author": "10up",
+                "authorURI": "https:\/\/10up.com",
+                "description": "Enable SVG uploads and sanitize them to stop XML\/SVG vulnerabilities in your WordPress website",
+                "title": "Safe SVG",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            }
+        },
+        "themes": {
+            "pimd": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorTheme",
+                "slug": "pimd",
+                "themeName": "PIMD",
+                "version": "1.0",
+                "themeURI": "",
+                "parentTheme": false,
+                "template": "pimd",
+                "stylesheet": "pimd",
+                "description": "Fully Dynamic WordPress Bootstrapped Responsive Theme",
+                "author": "Raihan Reza",
+                "authorURI": "https:\/\/elvirainfotech.com",
+                "tags": [
+                    "Bootstrap",
+                    "Blog",
+                    "ACF",
+                    "Custom Background",
+                    "Custom Colors",
+                    "Custom Logo",
+                    "Custom Menu",
+                    "Featured Images",
+                    "Customized Template"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "twentytwentytwo": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorTheme",
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.8",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Site Editor features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "style-variations",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": 3,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": [
+        "duplicator_pro_ui_view_state",
+        "duplicator_pro_package_active",
+        "duplicator_pro_settings"
+    ],
+    "brand": {
+        "name": "Duplicator Professional",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator Pro",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "cpnl-dbaction": {
+            "value": "create"
+        }
+    },
+    "installer_base_name": "installer.php",
+    "installer_backup_name": "Default_4086f294e58803bb6958_20240822134232_installer-backup.php",
+    "package_name": "Default_4086f294e58803bb6958_20240822134232_archive.zip",
+    "package_hash": "4086f29-22134232",
+    "package_notes": "The default template."
+}
